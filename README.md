@@ -6,6 +6,7 @@ Just a list of stream-processors
 
 * [benthos](https://github.com/Jeffail/benthos) - A dull, resilient and quick to deploy stream processor.
 * [gollum](https://github.com/trivago/gollum) - An n:m message multiplexer written in Go.
+* [heka](https://github.com/mozilla-services/heka) - A tool by Mozilla written in Go. Plugins can be written in either Go or Lua. [DEPRECATED]
 
 
 ## Ruby
