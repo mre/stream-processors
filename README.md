@@ -1,6 +1,9 @@
 # stream-processors
 Just a list of stream-processors
 
+## C
+
+* [hindsight](https://github.com/mozilla-services/hindsight) - A lightweight skeleton around a Lua sandbox offering 'at least once' delivery semantics. Spiritual successor of heka.
 
 ## Go
 
