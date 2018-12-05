@@ -13,9 +13,14 @@ No system really does that.
 
 ## Event object
 
-See logstash
+See [logstash event object][event]
 
 ## Messaging queue
 
 * persistent queue?
 * async / futures-based
+
+
+
+
+[event]: https://www.elastic.co/guide/en/logstash/current/event-api.html
