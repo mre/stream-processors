@@ -1,3 +1,13 @@
+## General architecture
+
+Logstash:
+
+* Inputs
+* Codecs
+* Filters
+* Ouputs
+
+
 ## Plugin system
 
 ```
