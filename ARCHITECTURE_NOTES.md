@@ -6,7 +6,7 @@ Logstash:
 * Codecs
 * Filters
 * Ouputs
-
+* Events + Metadata
 
 ## Plugin system
 
@@ -23,7 +23,9 @@ No system really does that.
 
 ## Event object
 
-See [logstash event object][event]
+See [logstash event object][event].
+This also contains metadata, which is a hashmap of additional key-value pairs that don't get flushed to the output.
+This is convenient for simple bookkeeping tasks. Since this is heap-allocated, it comes with an overhead cost.
 
 ## Messaging queue
 
