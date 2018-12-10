@@ -32,7 +32,13 @@ This is convenient for simple bookkeeping tasks. Since this is heap-allocated, i
 * persistent queue?
 * async / futures-based
 
+## Monitoring
 
+Logstash offers a built-in monitoring API.
+
+## More info
+
+https://www.elastic.co/guide/en/logstash/current/deploying-and-scaling.html
 
 
 [event]: https://www.elastic.co/guide/en/logstash/current/event-api.html
