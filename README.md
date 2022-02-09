@@ -11,6 +11,9 @@ Just a list of stream-processors
 * [gollum](https://github.com/trivago/gollum) - An n:m message multiplexer written in Go.
 * [heka](https://github.com/mozilla-services/heka) - A tool by Mozilla written in Go. Plugins can be written in either Go or Lua. [DEPRECATED]
 
+## Python
+
+* [faust](https://github.com/robinhood/faust) - Python Stream Processing porting the ideas from Kafka Streams to Python.
 
 ## Ruby
 
