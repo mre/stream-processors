@@ -20,3 +20,4 @@ Just a list of stream-processors
 ## Rust
 
 * [flowgger](https://github.com/jedisct1/flowgger) - A fast data collector in Rust.
+* [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
